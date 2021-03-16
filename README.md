@@ -9,9 +9,9 @@ The purpose of this repository is to allow students to practice and build up the
 ```
 npm install
 ```
-
+Open your terminal, change directory in the root folder, and type in: 
 ```
-jest
+jest [specificName] (e.g., jest helloworld) 
 ```
 
 ### How it works :open_book:
@@ -19,7 +19,7 @@ jest
 1. Complete the assigned problem
 2. Run jest in your terminal to see if you passed the test
 
-#### alex and lesley's master plan
+#### Master Plan
 
 | Number |    Problem     |           Practice            |
 | ------ | :------------: | :---------------------------: |

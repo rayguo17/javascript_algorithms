@@ -32,9 +32,6 @@ jest [specificName] (e.g., jest helloworld)
 | 7      |                |                               |
 | 8      |                |                               |
 | 9      |                |                               |
-| 10     |Remove Duplicates|         Array, Set           |
-| 11     |Most Occurred Character|       Map              |
-| 12     |                |                               |
 
 ### User Stories :telescope:
 

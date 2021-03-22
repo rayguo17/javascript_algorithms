@@ -1,8 +1,8 @@
 # Algorithms :rocket:
 
-## Purpose :dark_sunglasses:
+## Intro :computer:
 
-The purpose of this repository is to allow students to practice and build up their javascript skills, mainly by working through these algorithms.
+This repository is to show the algorithms problem that i have solved, and going to solve.
 
 ### How to run this package
 
@@ -21,17 +21,27 @@ jest [specificName] (e.g., jest helloworld)
 
 #### Master Plan
 
-| Number |    Problem     |           Practice            |
-| ------ | :------------: | :---------------------------: |
-| 1      |  Hello World   |            String             |
-| 2      |    Two Fer     | Template literals, parameters |
-| 3      | Resistor Color |    Get array, given index     |
-| 4      |                |                               |
-| 5      |                |                               |
-| 6      |                |                               |
-| 7      |                |                               |
-| 8      |                |                               |
-| 9      |                |                               |
+| Number |    Problem     |       level     |       Finished Date     |
+| ------ | :------------: | :-------------: |:-----------------------:|
+| 1      |  Hello World   |🟩              | 2021/3/16
+| 2      |    Two Fer     |🟩              | 2021/3/16
+| 3      | Resistor Color |🟩              | 2021/3/16
+| 4      |  Capitalize    |🟩              | 2021/3/17 
+| 5      |   Gigasecond   |🟩              | 2021/3/17
+| 6      |   Leap         |🟩              | 2021/3/17
+| 7      |   ReverseString|🟩              | 2021/3/17
+| 8      |   Raindrops    |🟩              | 2021/3/18
+| 9      |RNATranscription|🟩              | 2021/3/18
+|10      |RemoveDuplicates|🟩              | 2021/3/18
+|11      |MostChar        |🟩              | 2021/3/18
+|12      |Pangram         |🟩              | 2021/3/18
+|13      |ArmstrongNumber |🟩              | 2021/3/18
+|14      |bob             |🟩              | 2021/3/19
+|15      |linked-list     |🟨              | 2021/3/19
+|16      |list-ops        |🟨              | 2021/3/19
+|17      |pascals-triangle|🟨              | 2021/3/19
+|18      |simple-cipher   |🟨              |
+
 
 ### User Stories :telescope:
 

@@ -41,6 +41,10 @@ jest [specificName] (e.g., jest helloworld)
 |16      |list-ops        |🟨              | 2021/3/19
 |17      |pascals-triangle|🟨              | 2021/3/19
 |18      |simple-cipher   |🟨              |
+|19      |phone-number    |🟩              | 2021/3/22
+|20      |match-brackets  |🟩              | 2021/3/22
+|21      |roman-numerals  |🟩              | 2021/3/23
+|22      |spiral-matrix   |🟨              | 2021/3/24
 
 
 ### User Stories :telescope:

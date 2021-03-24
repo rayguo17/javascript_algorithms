@@ -21,8 +21,8 @@
 //   }
 // }
 class Cipher{
-  constructor() {
-    
+  constructor(key = null) {
+    this.key = key;
   }
   encode() {
     
@@ -31,7 +31,7 @@ class Cipher{
     
   }
   get key() {
-    
+    return this.key;
   }
 }
 module.exports = { Cipher };

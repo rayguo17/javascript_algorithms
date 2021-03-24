@@ -132,6 +132,6 @@ console.log(list.unshift(3));
 console.log(list)
 
 list.delete(3);
-list.delete(8;)
+list.delete(8);
 console.log(list);
 console.log(list.count1());
